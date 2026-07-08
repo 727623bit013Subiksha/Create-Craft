@@ -49,6 +49,8 @@ Many users find it difficult to discover organized and inspiring craft ideas fro
 
 ## 🖼️ Screenshots
 
+![Create-Craft](https://github.com/user-attachments/assets/e9d3a637-8776-4ee9-aad4-16684f6a5f58)
+
 ![Onboarding screen](https://github.com/user-attachments/assets/19b661df-d5a4-41ed-a7f9-5c18783d7799)
 
 ![Home Screen](https://github.com/user-attachments/assets/c386fd89-7f52-4e99-8c4b-6e2121d4c099)
